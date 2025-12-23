@@ -1,0 +1,7 @@
+{
+  "name": "SpendWise AI - Intelligent Expense Tracker",
+  "description": "A feature-rich personal finance tracker with smart auto-categorization powered by Gemini, detailed analytics, and mobile-friendly design.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
